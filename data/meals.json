@@ -1,0 +1,36 @@
+[
+  {
+    "name": "breakfasts",
+    "meals": [
+      {
+        "name": "Kanapka z pastą jajeczną"
+      },
+      {
+        "name": "Naleśniki z serem"
+      },
+      {
+        "name": "Szakszuka"
+      },
+      {
+        "name": "Kanapka z serkiem wędliną i warzywem"
+      }
+    ]
+  },
+  {
+    "name": "dinner",
+    "meals": [
+      {
+        "name": "Spaghetti"
+      },
+      {
+        "name": "Chili con Carne"
+      },
+      {
+        "name": "Mielone z ziemniakami"
+      },
+      {
+        "name": "Zapiekanka z serem"
+      }
+    ]
+  }
+]
